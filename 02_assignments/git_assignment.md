@@ -9,7 +9,6 @@ In this assignment, you will be learning more about `git` and `GitHub` by workin
     ```markdown
     # Git Assignment - <Your GitHub Username>
     ```
-
 4. Stage, commit and push the repo
 5. Create a new branch called `assignment`
 6. In your `README.md`, answer the following questions:
